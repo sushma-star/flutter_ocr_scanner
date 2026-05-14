@@ -198,6 +198,24 @@ Implemented tests for:
 ```
 
 ---
+# Screenshots
+
+## Home Screen
+
+![Home Screen](assets/home.png)
+
+---
+
+## Card Scanner
+
+![Card Scanner](assets/card_scanner.png)
+
+---
+
+## Passbook Scanner
+
+![Passbook Scanner](assets/passbook_scanner.png)
+
 
 # Author
 
