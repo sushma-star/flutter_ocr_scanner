@@ -200,21 +200,24 @@ Implemented tests for:
 ---
 # Screenshots
 
+# Screenshots
+
 ## Home Screen
 
-![Home Screen](assets/home.png)
+<img src="assets/home.png" width="250"/>
 
 ---
 
 ## Card Scanner
 
-![Card Scanner](assets/card_scanner.png)
+<img src="assets/card_scanner.png" width="250"/>
 
 ---
 
 ## Passbook Scanner
 
-![Passbook Scanner](assets/passbook_scanner.png)
+<img src="assets/passbook_scanner.png" width="250"/>
+
 
 
 # Author
