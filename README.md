@@ -41,9 +41,11 @@ A Flutter application that scans debit/credit cards and bank passbooks using OCR
 # Libraries Used
 
 ```yaml
-get:
-google_mlkit_text_recognition:
-image_picker:
+  get: 
+  camera: 
+  image_picker:
+  google_mlkit_text_recognition: 
+  permission_handler: 
 ```
 
 ---
@@ -94,6 +96,7 @@ OCR output is cleaned and filtered before parsing.
 Handled common OCR issues:
 
 * O → 0 correction
+* I → 1 correction
 
 ## Multiple Numbers in OCR
 
